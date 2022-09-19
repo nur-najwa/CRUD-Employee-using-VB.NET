@@ -1,0 +1,26 @@
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.exe.config
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.exe
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.pdb
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.xml
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.Form1.resources
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.Resources.resources
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.GenerateResource.cache
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.exe
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.xml
+C:\Users\najwa\Desktop\Done Api\API for fun\CRUDEMPLOYEE\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.pdb
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.exe.config
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.exe
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.pdb
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\bin\Debug\CRUDEMPLOYEE.xml
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.Form1.resources
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.Resources.resources
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.GenerateResource.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.vbproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.exe
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.xml
+C:\Users\najwa\Desktop\Done Api\VB.NET\CRUDEMPLOYEE vb.net\CRUDEMPLOYEE\obj\Debug\CRUDEMPLOYEE.pdb
